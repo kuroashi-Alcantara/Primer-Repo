@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "H:\\git\\calculator\\calculator.csproj": {}
+    "H:\\repo-prove-clone\\Primer-Repo\\calculator.csproj": {}
   },
   "projects": {
-    "H:\\git\\calculator\\calculator.csproj": {
+    "H:\\repo-prove-clone\\Primer-Repo\\calculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\git\\calculator\\calculator.csproj",
+        "projectUniqueName": "H:\\repo-prove-clone\\Primer-Repo\\calculator.csproj",
         "projectName": "calculator",
-        "projectPath": "H:\\git\\calculator\\calculator.csproj",
+        "projectPath": "H:\\repo-prove-clone\\Primer-Repo\\calculator.csproj",
         "packagesPath": "C:\\Users\\Herib\\.nuget\\packages\\",
-        "outputPath": "H:\\git\\calculator\\obj\\",
+        "outputPath": "H:\\repo-prove-clone\\Primer-Repo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Herib\\AppData\\Roaming\\NuGet\\NuGet.Config",
